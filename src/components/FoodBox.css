@@ -1,0 +1,13 @@
+.foodBox {
+    border: 1px solid;
+    margin-bottom: 2em;
+    padding: 2em;
+  }
+  
+  .foodBox img {
+    height: 100px;
+  }
+  
+  .foodBox p {
+    margin: 0 auto 1em;
+  }
